@@ -1,0 +1,18 @@
+﻿  GK_OpenGL.cpp
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(85,51): warning C4244: "=": konwersja z "double" do "unsigned long", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(115,55): warning C4244: "=": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(592,29): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(592,24): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(592,19): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(595,29): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(595,24): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(595,19): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(611,12): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(612,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(613,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(614,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(615,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(616,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(617,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48513\source\repos\GK_OpenGL\GK_OpenGL\GK_OpenGL.cpp(618,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  GK_OpenGL.vcxproj -> C:\Users\48513\source\repos\GK_OpenGL\x64\Debug\GK_OpenGL.exe
